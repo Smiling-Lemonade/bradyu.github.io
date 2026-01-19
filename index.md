@@ -1,6 +1,5 @@
----
-title: My Homepage
-layout: default
+[Home](/) | [Class Schedule](/schedule.html) | [About Me](/about.html)
+
 ---
 
 # Welcome to my Site!
