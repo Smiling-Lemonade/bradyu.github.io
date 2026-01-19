@@ -1,4 +1,4 @@
-[Home](/) | [Class Schedule](/schedule/) | [About Me](/about/)
+[Home](/) | [Class Schedule](Schedule/index.md) | [About Me](/about/)
 
 ---
 
