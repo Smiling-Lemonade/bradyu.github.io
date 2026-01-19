@@ -19,8 +19,8 @@ Graduation Progress  <br>
 <br>
 ✅ **Data C100**  <br>
 ❌ **Probability** <br>
-❕ **Computational & Inferential Depth [4/7]Units** : CS161 (IN PROGRESS)<br>
+❕ **Computational & Inferential Depth [4/7]Units** : CS161 (IN PROGRESS) : (ASTRON 128 : Waitlisted)<br> 
 ❕ **Modeling, Learning, and Decision-Making** : CS189 (IN PROGRESS)<br>
 ✅ **Human Contexts and Ethics** : DataC104<br>
-❌ **Domain Emphasis (Upper Division) [0/2]Classes** : 
+❌ **Domain Emphasis (Upper Division) [0/2]Classes** : (COGSCI 100 , COGSCI 180 : Waitlisted)
 
