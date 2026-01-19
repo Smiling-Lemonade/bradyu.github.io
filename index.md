@@ -5,4 +5,4 @@ layout: default
 
 # Welcome to my Site!
 
-This is my content. The theme should now make this text look good.
+This site will contain information about me, my current projects, schedule and future ideas!
