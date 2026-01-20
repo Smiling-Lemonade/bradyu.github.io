@@ -1,4 +1,4 @@
-[Tasklist](/Schedule/tasklist.md/)
+[Tasklist](/Personal/tasklist.md/)
 ---
 title: My Schedule
 layout: default
