@@ -1,4 +1,4 @@
-[Schedule](/Schedule/Schedule.md/)
+[Schedule](/Personal/Schedule.md/)
 ### 📋**Tasks for 1-20-26** <br>
 ✅ clean apt <br>
    talk with astro prof after class about time conflict override <br>
