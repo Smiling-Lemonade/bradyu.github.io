@@ -1,4 +1,4 @@
-[Home](/) | [About Me](/about/)
+[Home](/) | [About Me](/about/) | [Schedule](/Schedule/tasklist.md/)
 
 ---
 
