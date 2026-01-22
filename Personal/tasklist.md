@@ -1,7 +1,7 @@
 [Schedule](/Personal/Schedule.md/)
 ### 📋**Tasks for 1-21-26** <br>
-✅ set up jypter notebooks enviroment for astron
-✅ go to the library and complete 161 setup
+✅ set up jypter notebooks enviroment for astron<br>
+✅ go to the library and complete 161 setup<br>
 
    identify sections of astron hw and complete at least one section <br>
    watch cs 189 lecture and take notes <br> 
