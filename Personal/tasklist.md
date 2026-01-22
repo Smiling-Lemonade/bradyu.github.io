@@ -1,16 +1,18 @@
+You should be comfortable with vector calculus (including gradients and the multivariate chain rule), matrix operations, probability theory (including conditional probability and Bayes’ rule), and writing/debugging complex programs in Python. If you lack preparation in these areas, you are likely to struggle.
 [Schedule](/Personal/Schedule.md/)
+
 ### 📋**Tasks for 1-21-26** <br>
 ✅ set up jypter notebooks enviroment for astron<br>
 ✅ go to the library and complete 161 setup<br>
 
-   identify sections of astron hw and complete at least one section <br>
-   watch cs 189 lecture and take notes <br> 
-   complete lecture polls <br>
-   complete cs 189 hw <br>
-   identify multivariable calculus parts of math 189 <br>
-   break down and plan out all multi portions <br>
-   identify work needed for asia class and <br>
-   check email too see if astron got approved <br>
+❕ identify sections of astron hw and complete at least one section <br>
+❕ watch cs 189 lecture and take notes <br> 
+❕ complete lecture polls <br>
+❕ complete cs 189 hw <br>
+✅ identify multivariable calculus parts of math 189 <br>
+❕ break down and plan out all multi portions <br>
+❕ identify work needed for asia class and <br>
+✅ check email too see if astron got approved <br>
    
    
 ### 📋**Tasks for 1-20-26** <br>
