@@ -1,6 +1,18 @@
 You should be comfortable with vector calculus (including gradients and the multivariate chain rule), matrix operations, probability theory (including conditional probability and Bayes’ rule), and writing/debugging complex programs in Python. If you lack preparation in these areas, you are likely to struggle.
 [Schedule](/Personal/Schedule.md/)
 
+### 📋**Tasks for 1-23-26** <br>
+ASTRON
+Lab 0 Checkpoints Jan 27 ,29
+CS189
+Lecture Videos and Participartion Polls
+China
+Find Textbook and figure out the course load
+CogSci 180
+Catch up and read ahead for lectures in preperation for polls
+Look at term paper and start figuring out what to do/ requirements for how it needs to be done.
+
+
 ### 📋**Tasks for 1-21-26** <br>
 ✅ set up jypter notebooks enviroment for astron<br>
 ✅ go to the library and complete 161 setup<br>
